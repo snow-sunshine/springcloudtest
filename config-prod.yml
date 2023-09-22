@@ -1,1 +1,2 @@
-this is prod config
+server:
+  port:  "this is prod config"
