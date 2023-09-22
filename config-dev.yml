@@ -1,3 +1,5 @@
+configinfo:
+  info: "tttttttt"
 server:
   port:  "this is dev config"
 conf:
